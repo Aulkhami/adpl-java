@@ -8,9 +8,9 @@ import java.sql.*;
 
 public class Database {
 
-    static final String url = "jdbc:mariadb://localhost:3306/moduladpl";
+    static final String url = "jdbc:mysql://localhost:3306/moduladpl";
     static final String user = "root";
-    static final String pass = "password";
+    static final String pass = "password"; // GANTI KE PASSWORD KALIAN
     static Connection conn;
     public static Statement stmt;
     public static ResultSet rs;
