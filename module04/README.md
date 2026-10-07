@@ -44,10 +44,13 @@ INSERT INTO tabel_penjualan (kode, nama, harga) VALUES
 
 ### Penjalanan Aplikasi
 1. Buka modul sebagai project dalam NetBeans.
-2. Klik Clean and Build Project.
+2. Ubah variabel `String pass` dalam class `Database` yang di package `model` sesuai dengan password yang disetting.
+<img width="639" height="197" alt="image" src="https://github.com/user-attachments/assets/2a5ad3c4-c911-4774-b0bd-85e757d426a7" />
+
+3. Klik Clean and Build Project.
 <img width="828" height="112" alt="image" src="https://github.com/user-attachments/assets/07675b13-f11b-4b17-96d0-a21a0730ea55" />
 
-3. Klik Run Project.
+4. Klik Run Project.
 <img width="828" height="112" alt="image" src="https://github.com/user-attachments/assets/34eb82dc-1d6a-429c-9bcf-535a18b40218" />
 
 ### Kriteria Isi Laporan
